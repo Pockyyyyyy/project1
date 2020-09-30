@@ -1,7 +1,8 @@
-body{
-    background-image:scr
+body {
+    background-color: #5f3a3a;
 }
-    #container {
+
+#container {
     box-sizing: border-box;
     border-style: solid;
     border-color: #f18973;
@@ -18,4 +19,8 @@ body{
 
 #text3 {
     padding-left: 85px;
+}
+#container2{
+    box-sizing: border-box;
+    
 }
