@@ -1,6 +1,10 @@
-#container {
+body{
+    background-image:scr
+}
+    #container {
     box-sizing: border-box;
     border-style: solid;
+    border-color: #f18973;
     border-width: 3px;
     width: 50%;
     background-color: #f18973;
