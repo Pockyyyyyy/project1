@@ -11,6 +11,7 @@ body {
     background-color: #f18973;
     margin: auto;
     padding: 10px;
+    height: 600px;
 }
 
 #text2 {
@@ -20,7 +21,11 @@ body {
 #text3 {
     padding-left: 85px;
 }
-#container2{
+
+#container2 {
     box-sizing: border-box;
-    
+    border: solid white 2px;
+    margin: auto;
+    width: 90%;
+    height: 90%;
 }
