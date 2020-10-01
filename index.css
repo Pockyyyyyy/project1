@@ -1,0 +1,31 @@
+body {
+    background-color: #5f3a3a;
+}
+
+#container {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: #f18973;
+    border-width: 3px;
+    width: 50%;
+    background-color: #f18973;
+    margin: auto;
+    padding: 10px;
+    height: 600px;
+}
+
+#text2 {
+    padding-left: 115px;
+}
+
+#text3 {
+    padding-left: 115px;
+}
+
+#container2 {
+    box-sizing: border-box;
+    border: solid white 2px;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+}
